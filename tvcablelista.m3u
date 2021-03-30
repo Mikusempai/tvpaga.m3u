@@ -1,0 +1,448 @@
+#EXTM3U
+
+#EXTINF:0 group-title="Lista TV", AXN
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=axn&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Comedy Central
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=comedy&f=.m3u8
+#EXTINF:0 group-title="Lista TV", E!
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=e&f=.m3u8
+#EXTINF:0 group-title="Lista TV", FX
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=fx&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Discovery ID
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=id&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Lifetime
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=lifetime&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Pasiones
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=pasiones&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Sony
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=sony&f=.m3u8
+#EXTINF:0 group-title="Lista TV", TBS
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=tbs&f=.m3u8
+#EXTINF:0 group-title="Lista TV", TLC
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=tlc&f=.m3u8
+#EXTINF:0 group-title="Lista TV", TLNOVELAS
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=tlnovelas&f=.m3u8
+#EXTINF:0 group-title="Lista TV", TNT Series
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=tntseries&f=.m3u8
+#EXTINF:0 group-title="Lista TV", TRUTV
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=trutv&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Universal
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=universal&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Warner
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=warner&f=.m3u8
+#EXTINF:0 group-title="Lista TV", AMC
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=amc&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Cinecanal
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=cinecanal&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Cinemax
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=cinemax&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Cinelatino
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=cinelatino&f=.m3u8
+#EXTINF:0 group-title="Lista TV", De Pelicula
+http://ipeteve.com/php/REGIO_PLAY21321231/tv32.php?c=94_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", De Pelicula +
+http://ipeteve.com/php/REGIO_PLAY21321231/tv32.php?c=95_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", DHE
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=dhe&f=.m3u8
+#EXTINF:0 group-title="Lista TV", FXM
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=fxm&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Golden
+http://ipeteve.com/php/REGIO_PLAY21321231/tv32.php?c=107_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Golden Edge
+http://ipeteve.com/php/REGIO_PLAY21321231/tv32.php?c=108_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Golden Edge
+http://ipeteve.com/php/REGIO_PLAY21321231/tv32.php?c=109_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", HBO
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=hboes&f=.m3u8
+#EXTINF:0 group-title="Lista TV", HBO 2
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=hbo2&f=.m3u8
+#EXTINF:0 group-title="Lista TV", HBO +
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=hboplus&f=.m3u8
+#EXTINF:0 group-title="Lista TV", HBO Family
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=hbofamily&f=.m3u8
+#EXTINF:0 group-title="Lista TV", I SAT
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=isat&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Morbido
+http://ipeteve.com/php/REGIO_PLAY21321231/tv32.php?c=100_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Multi Cinema
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=mc&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Multi Premier
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=mp&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Paramount
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=paramount&f=.m3u8
+#EXTINF:0 group-title="Lista TV", SYFY
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=syfy-1&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Animal Planet
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=animalp&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Discovery Channel
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=discovery&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Discovery Science
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=dciencia&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Discovery Turbo
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=dturbo&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Discovery H&H
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=hh&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Nat Geo
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=natgeo&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Nat Geo Wild
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=natgeowild&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Bandamax
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=bandamax&f=.m3u8
+#EXTINF:0 group-title="Lista TV", EXATV
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=exatv&f=.m3u8
+#EXTINF:0 group-title="Lista TV", FOX MIX
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=foxmix&f=.m3u8
+#EXTINF:0 group-title="Lista TV", La Mejor TV
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=lamejor&f=.m3u8
+#EXTINF:0 group-title="Lista TV", MTV
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=mtv&f=.m3u8
+#EXTINF:0 group-title="Lista TV", MTV Tres
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=mtvtr3s&f=.m3u8
+#EXTINF:0 group-title="Lista TV", MTV HITS
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=mtvhits&f=.m3u8
+#EXTINF:0 group-title="Lista TV", MTV LIVE
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=mtvlive&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Teleritmo
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=teleritmo&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Videorola
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=videorola&f=.m3u8
+
+#EXTINF:0 group-title="Lista TV", TVC DEPORTES
+http://ipeteve.com/php/REGIO_PLAY21321231/tv32.php?c=264_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Claro Sports
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=claro&f=.m3u8
+#EXTINF:0 group-title="Lista TV", ESPN MX
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=espn1mx&f=.m3u8
+#EXTINF:0 group-title="Lista TV", ESPN 2 MX
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=espn2mx&f=.m3u8
+#EXTINF:0 group-title="Lista TV", ESPN 3 MX
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=espn3mx&f=.m3u8
+#EXTINF:0 group-title="Lista TV", ESPN EXTRA
+http://ipeteve.com/php/REGIO_PLAY21321231/tv32.php?c=258_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", ESPN DEPORTES
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=espndep&f=.m3u8
+#EXTINF:0 group-title="Lista TV", FOX SPORTS 1 MX
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=foxsport1mx&f=.m3u8
+#EXTINF:0 group-title="Lista TV", FOX SPORTS 2 MX
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=foxsport2mx&f=.m3u8
+#EXTINF:0 group-title="Lista TV", FOX SPORTS 3 MX
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=foxsport3mx&f=.m3u8
+#EXTINF:0 group-title="Lista TV", TUDN MX
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=tudnmx&f=.m3u8
+#EXTINF:0 group-title="Lista TV", TUDN US
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=tudnus&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Univision
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=univisionhd&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Unimas
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=telemundo&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Telemundo
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=telemundo&f=.m3u8
+#EXTINF:0 group-title="Lista TV", GALAVISION
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=galavision&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Distrito Comedia
+http://ipeteve.com/php/REGIO_PLAY21321231/tv32.php?c=79_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", GOLTV
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=goltv&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Multimedios
+http://ipeteve.com/php/REGIO_PLAY21321231/multimedios.php?f=.m3u8
+#EXTINF:0 group-title="Lista TV", Canal 28
+http://ipeteve.com/php/REGIO_PLAY21321231/canal28.php?f=.m3u8
+#EXTINF:0 group-title="Lista TV", AZTECA 7
+http://ipeteve.com/php/REGIO_PLAY21321231/azteca7.php?f=.m3u8
+#EXTINF:0 group-title="Lista TV", TNT
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=tnt&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Discovery ID
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=id&f=.m3u8
+#EXTINF:0 group-title="Lista TV", H2
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=h2&f=.m3u8
+#EXTINF:0 group-title="Lista TV", History
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=history&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Azteca UNO
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=aztecauno&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Azteca 7
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=azteca7&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Space
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=space&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Universal
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=warner&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Universal
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=universal&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Sony
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=sony&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Tooncast
+http://ipeteve.com/php/REGIO_PLAY21321231/tv3.php?c=1728_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Teen Nick
+http://ipeteve.com/php/REGIO_PLAY21321231/tv3.php?c=1715_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Nick Jr
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=nickjr&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Nick
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=nick&f=.m3u8
+#EXTINF:0 group-title="Lista TV", NatGeo Kids
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=natgeokids&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Discovery Kids
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=dkids&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Disney XD
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=disneyxd&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Disney Jr
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=disneyjr&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Disney Channel
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=disneych&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Cartoon Network
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=cartoon&f=.m3u8
+#EXTINF:0 group-title="Lista TV", BitMe
+http://ipeteve.com/php/REGIO_PLAY21321231/tv3.php?c=212_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Baby Firts
+http://ipeteve.com/php/REGIO_PLAY21321231/tv3.php?c=214_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Star Series
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=babytv&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Star Series
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=starseries&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Star Life
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=starlife&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Star Hits
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=starhits&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Star Action
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=starfun&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Star Comedy
+http://ipeteve.com/php/REGIO_PLAY21321231/tv3.php?c=234_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Star Classics
+http://ipeteve.com/php/REGIO_PLAY21321231/tv3.php?c=1498_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Star Cinema
+http://ipeteve.com/php/REGIO_PLAY21321231/tv3.php?c=1626_&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Star Action
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=staraction&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Star Channel
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=starch&f=.m3u8
+#EXTINF:0 group-title="Lista TV", HBO Family
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=hbofamily&f=.m3u8
+#EXTINF:0 group-title="Lista TV", HBO +
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=hboplus&f=.m3u8
+#EXTINF:0 group-title="Lista TV", HBO 2
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=hbo2&f=.m3u8
+#EXTINF:0 group-title="Lista TV", HBO
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=hbo&f=.m3u8
+#EXTINF:0 group-title="Lista TV", A&E
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=ae&f=.m3u8
+
+
+ 
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Channels",MULTIMEDIOS MONTERREY
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1 tvg-id="ext" group-title="Channels",tv peru
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Channels",ip peru
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",exitosa tv
+https://cu.onliv3.com/livevd1/user2_low/index.m3u8
+
+
+#PLAYLIST:Online radio: OPERA Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1561046045.jpg" group-title="OPERA Radio - radio.pervii.com", Italy Classical Radio - 128 kbit/s
+http://176.31.107.8:8204/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="OPERA Radio - radio.pervii.com", Klassik Radio Opera - 128 kbit/s
+http://stream.klassikradio.de/opera/mp3-128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549423873.jpg" group-title="OPERA Radio - radio.pervii.com", RADIO CLASIC OPERA - 128 kbit/s
+http://clasicradio.ro:7500/stream/1/
+
+#PLAYLIST:Online radio: REGGAE Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/97181.jpg" group-title="REGGAE Radio - radio.pervii.com", La Grosse Radio Reggae - Dub Dancehall Roots - From Paris - www.LaGrosseRadio.com - 192 kbit/s
+http://hd.lagrosseradio.info:8000/lagrosseradio-reggae-192.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551266037.jpg" group-title="REGGAE Radio - radio.pervii.com", Vibesfm.net - 96 kbit/s
+http://s02.whooshserver.net:9091/live.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1586748585.jpg" group-title="REGGAE Radio - radio.pervii.com", Yakaleo | #1 Reggaeton Exitos | 128k | www.yakaleo.com - 128 kbit/s
+http://95.216.153.146:8010/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1576143436.jpg" group-title="REGGAE Radio - radio.pervii.com", Radio Guyana International - Playing the Best In | Soca | Chutney | Reggae | Bollywood and Top 40.| - 128 kbit/s
+http://51.15.152.81:8905/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="REGGAE Radio - radio.pervii.com", laut.fm pure stuff reggae station - 128 kbit/s
+http://stream.laut.fm/pure-stuff-reggae-station
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552232012.jpg" group-title="REGGAE Radio - radio.pervii.com", ISAAC NATURAL - 128 kbit/s
+http://rascast.podzone.org:8014/conciousradio
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552232012.jpg" group-title="REGGAE Radio - radio.pervii.com", Pigpen Radio - 128 kbit/s
+http://178.79.158.160:8213/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550324930.jpg" group-title="REGGAE Radio - radio.pervii.com", Black Roots Radio - 128 kbit/s
+http://178.32.62.154:10156/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1576143436.jpg" group-title="REGGAE Radio - radio.pervii.com", Radio Guyana International HD - 128 kbit/s
+http://51.15.152.81:8905/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1559811756.jpg" group-title="REGGAE Radio - radio.pervii.com", A_A Reggae - 128 kbit/s
+http://195.154.250.208:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1578243261.jpg" group-title="REGGAE Radio - radio.pervii.com", Irie FM - Cayman's Riddem Station - 192 kbit/s
+http://158.69.4.171:8062/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="REGGAE Radio - radio.pervii.com", antenne-sauerland - 128 kbit/s
+http://stream.laut.fm/antenne-sauerland
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550675274.jpg" group-title="REGGAE Radio - radio.pervii.com", Reggae Mix Station - 192 kbit/s
+http://france1.coollabel-productions.com:8142/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550334357.jpg" group-title="REGGAE Radio - radio.pervii.com", Soca Addicts Radio - 128 kbit/s
+http://37.187.90.196:8989/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/113325.jpg" group-title="REGGAE Radio - radio.pervii.com", Cacoteo Radio #1 Reggaeton Station Online - 128 kbit/s
+http://streaming.live365.com/a64799
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/32032.jpg" group-title="REGGAE Radio - radio.pervii.com", Reggae Empire Radio Worldwide - 192 kbit/s
+http://192.99.8.192:3106/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537528414.jpg" group-title="REGGAE Radio - radio.pervii.com", [RMF REGGAE] - 192 kbit/s
+http://rs8-krk2-cyfronet.rmfstream.pl/REGGAE
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/94123.jpg" group-title="REGGAE Radio - radio.pervii.com", bigFM Reggae Vibez - 128 kbit/s
+http://streams.bigfm.de/bigfm-reggaevibes-128-mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="REGGAE Radio - radio.pervii.com", skaworld - 128 kbit/s
+http://stream.laut.fm/skaworld
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403813228.png" group-title="REGGAE Radio - radio.pervii.com", Radio RJR 98.3 Fm (London) - 128 kbit/s
+http://s4.streammonster.com:8596/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403787089.png" group-title="REGGAE Radio - radio.pervii.com", 89 HIT FM - Munichs Power Station - 128 kbit/s
+http://stream.hitfm.de:9050/live
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552741832.jpg" group-title="REGGAE Radio - radio.pervii.com", GTriddim Radio - 128 kbit/s
+http://158.69.211.205:8080/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552741832.jpg" group-title="REGGAE Radio - radio.pervii.com", Massive 103.5 FM - 128 kbit/s
+http://158.69.66.110:8001/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1549964294.jpg" group-title="REGGAE Radio - radio.pervii.com", RBR la radio des hits, Martinique - 128 kbit/s
+http://149.202.185.104:5840
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561121351.jpg" group-title="REGGAE Radio - radio.pervii.com", Sensimedia Roots Reggae Radio - 192 kbit/s
+http://144.217.129.213:9878/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403687445.png" group-title="REGGAE Radio - radio.pervii.com", PARTY VIBE RADIO : REGGAE - 320 kbit/s
+http://www.partyvibe.com:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1563036592.jpg" group-title="REGGAE Radio - radio.pervii.com", CURRAMBERA STEREO - 128 kbit/s
+http://163.172.77.142:8618/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1563036592.jpg" group-title="REGGAE Radio - radio.pervii.com", KNR The Beat of The Kingdom - 128 kbit/s
+http://198.27.83.198:5372/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1563036592.jpg" group-title="REGGAE Radio - radio.pervii.com", HRNB SONAGUERA - 192 kbit/s
+http://87.98.216.129:12906/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1587651680.jpg" group-title="REGGAE Radio - radio.pervii.com", RFI 1021 FM St Lucia - 128 kbit/s
+http://167.114.131.90:5908/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="REGGAE Radio - radio.pervii.com", laut.fm jahfari - 128 kbit/s
+http://stream.laut.fm/jahfari
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="REGGAE Radio - radio.pervii.com", Reggae4us Global Radio - 192 kbit/s
+http://station.reggae4us.net:8000/autodj
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="REGGAE Radio - radio.pervii.com", CALMRADIO.COM - Reggae - 128 kbit/s
+http://23.82.11.88:18928/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="REGGAE Radio - radio.pervii.com", Reggae King Radio - 128 kbit/s
+http://s6.voscast.com:10196/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1549636942.jpg" group-title="REGGAE Radio - radio.pervii.com", Radio Urbano Costa Rica - 96 kbit/s
+http://94.23.44.216:4236
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1358693544.jpg" group-title="REGGAE Radio - radio.pervii.com", Radio Dreams Dance Hits Adrenaline - 96 kbit/s
+http://5.2.184.92:3390/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1587447806.jpg" group-title="REGGAE Radio - radio.pervii.com", Alpha Boys School Radio - 96 kbit/s
+http://alphaboys-live.streamguys1.com/alphaboys.aac
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/123126.jpg" group-title="REGGAE Radio - radio.pervii.com", Nayda Maroc by Yabiladi.com - 128 kbit/s
+http://37.187.146.76:9100/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/123126.jpg" group-title="REGGAE Radio - radio.pervii.com", Chaaawaaa - 128 kbit/s
+http://91.121.78.191:8080/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/123126.jpg" group-title="REGGAE Radio - radio.pervii.com", love soul radio - 256 kbit/s
+http://198.100.145.185:8772/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1574430464.jpg" group-title="REGGAE Radio - radio.pervii.com", OneHundreadLocks - 128 kbit/s
+http://listen.radionomy.com/One-Hundread-Locks
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1574430464.jpg" group-title="REGGAE Radio - radio.pervii.com", Riddim Roots Radio - 96 kbit/s
+http://51.255.235.165:5416/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1574430464.jpg" group-title="REGGAE Radio - radio.pervii.com", Chill FM Dublin - 128 kbit/s
+http://91.121.205.70:4062/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1552704999.jpg" group-title="REGGAE Radio - radio.pervii.com", originalstereo907fm - 128 kbit/s
+http://167.114.64.181:8931/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559954630.jpg" group-title="REGGAE Radio - radio.pervii.com", CvsRadio1 - Reggae Radio - 128 kbit/s
+http://s8.voscast.com:9128/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561114721.jpg" group-title="REGGAE Radio - radio.pervii.com", Bongo Radio - Channel One :: Tanzania Best For Bongo Flava - 128 kbit/s
+http://173.244.208.77:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1572671501.jpg" group-title="REGGAE Radio - radio.pervii.com", RasCast Radio - RasCast Radio - 128 kbit/s
+http://209.208.78.199:9000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550677364.jpg" group-title="REGGAE Radio - radio.pervii.com", Radio Gameli - 128 kbit/s
+http://192.99.8.192:3190/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550677364.jpg" group-title="REGGAE Radio - radio.pervii.com", UGN RADIO - 128 kbit/s
+http://ice31.securenetsystems.net/UGNR
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550677364.jpg" group-title="REGGAE Radio - radio.pervii.com", YungNFresh - 96 kbit/s
+http://192.95.39.65:5553/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1556545743.jpg" group-title="REGGAE Radio - radio.pervii.com", North Shore Music FM - 128 kbit/s
+http://80.237.156.8:8440
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561699800.jpg" group-title="REGGAE Radio - radio.pervii.com", Radio Belizemix - 96 kbit/s
+http://66.55.145.43:7133
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561699800.jpg" group-title="REGGAE Radio - radio.pervii.com", Lockdown Radio UK - 128 kbit/s
+http://188.165.237.19:8266/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403766460.png" group-title="REGGAE Radio - radio.pervii.com", Reggae Vybz Online Radio - 128 kbit/s
+http://usa4.fastcast4u.com:5118/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403766460.png" group-title="REGGAE Radio - radio.pervii.com", Wicked!FM - 128 kbit/s
+http://82.94.204.100/proxy/wickedfm?mp=/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403766460.png" group-title="REGGAE Radio - radio.pervii.com", Dreadlock Radio - 128 kbit/s
+http://ic1.dread.fast-serv.com:80/dreadlockradio128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="REGGAE Radio - radio.pervii.com", DI Radio Digital Impulse - Reggae - 320 kbit/s
+http://orion.shoutca.st:8942/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1571971842.jpg" group-title="REGGAE Radio - radio.pervii.com", RDWA - 128 kbit/s
+http://live.francra.org:8000/R-Dwa
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1571971842.jpg" group-title="REGGAE Radio - radio.pervii.com", Belter Radio - 64 kbit/s
+http://uk2.internet-radio.com:30163/live
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1553695432.jpg" group-title="REGGAE Radio - radio.pervii.com", Blueprint Tony Culture - 192 kbit/s
+http://5.135.154.69:11784/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/113356.jpg" group-title="REGGAE Radio - radio.pervii.com", Feel Jah FM - 128 kbit/s
+https://solid9.streamupsolutions.com/proxy/aceycmcz?mp=/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403620342.png" group-title="REGGAE Radio - radio.pervii.com", Delta 103 - 64 kbit/s
+http://radio.domiplay.net:5240/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1556676003.jpg" group-title="REGGAE Radio - radio.pervii.com", zionhighness Stream - 128 kbit/s
+https://zionhighness.radioca.st/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1556676003.jpg" group-title="REGGAE Radio - radio.pervii.com", radioavisa  Stream - 128 kbit/s
+http://stream.zenolive.com/a06fnczrgxmtv
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556686796.jpg" group-title="REGGAE Radio - radio.pervii.com", Kulcha Shok Radio - 128 kbit/s
+http://199.180.75.2:9317
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556686796.jpg" group-title="REGGAE Radio - radio.pervii.com", TELLSTREAM.ORG  (UK) FUTURISTIC INTERNET RADIO - 64 kbit/s
+http://185.47.61.250:8080
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556686796.jpg" group-title="REGGAE Radio - radio.pervii.com", Rastapuls - 192 kbit/s
+http://radio.rastapuls.com:8000/rastapuls
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552224195.jpg" group-title="REGGAE Radio - radio.pervii.com", GotRadio - Reggae, Rasta and Roots - 128 kbit/s
+http://gr02.cdnstream.com:8470
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403616551.png" group-title="REGGAE Radio - radio.pervii.com", ... Burningrockers Radio ... BACK TO THE OLDSCHOOL ... - 64 kbit/s
+http://176.9.121.230:8020
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403756389.png" group-title="REGGAE Radio - radio.pervii.com", Reggaewave Radio - 128 kbit/s
+http://rascast.podzone.org:8040/reggaewave.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403831998.png" group-title="REGGAE Radio - radio.pervii.com", Stream Name - 48 kbit/s
+http://real2.streaming-co.com:8007
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1560954623.jpg" group-title="REGGAE Radio - radio.pervii.com", ROCKERZ ISLANDZ - 128 kbit/s
+http://149.202.186.120:4710
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4855.jpg" group-title="REGGAE Radio - radio.pervii.com", 181.FM Reggae Roots - 128 kbit/s
+http://208.84.155.87:8096
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403682921.png" group-title="REGGAE Radio - radio.pervii.com", Anima Amoris [Drum and Bass] 160 MP3 - 160 kbit/s
+http://93.100.61.75:8008
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403682921.png" group-title="REGGAE Radio - radio.pervii.com", Snakeice's House of Beats (IceCast- 320kbps) - 320 kbit/s
+http://dhoytt.com:8030/320kbps
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/15818.jpg" group-title="REGGAE Radio - radio.pervii.com", Retter-Radio.de Plattenkiste - 128 kbit/s
+http://www.retter-radio.de:8000
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/15818.jpg" group-title="REGGAE Radio - radio.pervii.com", FamilyGH - 96 kbit/s
+http://5.135.154.69:8516/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/15818.jpg" group-title="REGGAE Radio - radio.pervii.com", 808Reggaecast - 192 kbit/s
+http://66.225.205.5:80/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/15818.jpg" group-title="REGGAE Radio - radio.pervii.com", Radio Feverpitch - 128 kbit/s
+http://82.94.166.107:8097/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/15818.jpg" group-title="REGGAE Radio - radio.pervii.com", WHAT?! Island - 128 kbit/s
+http://162.144.106.6:8118/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403593055.png" group-title="REGGAE Radio - radio.pervii.com", Real Strong Radio - 128 kbit/s
+http://158.69.114.190:8028/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1588306977.jpg" group-title="REGGAE Radio - radio.pervii.com", TRACE REGGAE/DANCEHALL - 128 kbit/s
+http://stream.trace.tv/trace_fm_ci-midfi.aac
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1556671639.jpg" group-title="REGGAE Radio - radio.pervii.com", Armageddeon Musik - 256 kbit/s
+https://s5.voscast.com:9263/live
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="REGGAE Radio - radio.pervii.com", Radio Caprice - Roots Reggae - 128 kbit/s
+http://79.111.119.111:9047
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="REGGAE Radio - radio.pervii.com", AmbianceReggae - 128 kbit/s
+http://listen.radionomy.com/Ambiance-Reggae
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/2571.jpg" group-title="REGGAE Radio - radio.pervii.com", TROPIK FM ST BARTH - 128 kbit/s
+http://149.202.185.104:4330
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403604894.png" group-title="REGGAE Radio - radio.pervii.com", Reggae141.com - 128 kbit/s
+http://hestia2.cdnstream.com:80/1301_128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403604894.png" group-title="REGGAE Radio - radio.pervii.com", GloballyRelaxed Stream - 128 kbit/s
+http://perseus.shoutca.st:8775/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561049453.jpg" group-title="REGGAE Radio - radio.pervii.com", Faymus Radio - 320 kbit/s
+http://212.71.250.12:8078/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561049453.jpg" group-title="REGGAE Radio - radio.pervii.com", Whatever68 Worldwide Radio Streaming 24/7 - 128 kbit/s
+http://s1.nexuscast.com:8117
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561049453.jpg" group-title="REGGAE Radio - radio.pervii.com", SSR Radio Sygnaly - 128 kbit/s
+http://217.173.194.62:8000/rs.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561049453.jpg" group-title="REGGAE Radio - radio.pervii.com", WebRadioLatinos 100% Caliente - 128 kbit/s
+http://94.23.26.193:9000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561049453.jpg" group-title="REGGAE Radio - radio.pervii.com", qtv562rrs1duv - 128 kbit/s
+http://stream.radiojar.com/qtv562rrs1duv
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561049453.jpg" group-title="REGGAE Radio - radio.pervii.com", Kingston 12 - 160 kbit/s
+http://198.57.187.102:8080/kingston12
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403820253.png" group-title="REGGAE Radio - radio.pervii.com", PsychoRadio: ON AIR with the finest in RaggaJungle, Dubwise, DubStep, Reggae, Drum and Bass - 128 kbit/s
+http://stream.psychoradio.org:8000
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403820253.png" group-title="REGGAE Radio - radio.pervii.com", Dub Siren Radio - 256 kbit/s
+http://new-york-ssd.myautodj.com:8054
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1555136191.jpg" group-title="REGGAE Radio - radio.pervii.com", Radio UDG Colotlan - 128 kbit/s
+http://148.202.77.155:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="REGGAE Radio - radio.pervii.com", Radio Caprice Reggae - 128 kbit/s
+http://79.120.39.202:9063
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="REGGAE Radio - radio.pervii.com", Radio Konmakandra - 192 kbit/s
+http://centova.pure-isp.eu:8012/autodj
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="REGGAE Radio - radio.pervii.com", Caribbean Express - 128 kbit/s
+http://144.217.129.213:9382/stream/1/
